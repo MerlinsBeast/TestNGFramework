@@ -58,7 +58,7 @@ return driver;
         js.executeScript("document.body.style.zoom = '0.7'");
 
         pageObject_LandingPage = new LandingPage(driver);
-        pageObject_LandingPage.LoginIntoApplicationUsing("yd276vijay@gmail.com","Merlins@1Sword");
+        pageObject_LandingPage.LoginIntoApplicationUsing("yd276vijay@gmail.com","Merlins@01Sword");
         System.out.println("completed methods execution");
         return driver;
     }
