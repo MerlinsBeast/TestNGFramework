@@ -1,0 +1,8 @@
+pageObjects\ShippingDetailsPage.class
+pageObjects\LandingPage.class
+pageObjects\ProductCardsPage.class
+pageObjects\CheckOutPage.class
+resources\ExtentReportingNG.class
+JavaUTILITY\ReusableMethods.class
+pageObjects\FinalPage.class
+pageObjects\ForgotPasswordPage.class
